@@ -1,0 +1,20 @@
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+dist/
+# Environment
+.env.*
+.env
+.env.local
+.env.*.local
+.env.prod
+
+# Dependencies
+node_modules
+
+# Testing
+coverage
+
+# Deployment trigger - Sat Dec 27 13:28:16 IST 2025
